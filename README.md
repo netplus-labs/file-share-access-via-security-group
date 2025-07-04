@@ -30,7 +30,6 @@ This lab demonstrates how to manage access to a shared folder on a Windows File 
 |------|-------------|------------|
 | 1️⃣ | **Windows client added to Security Group** with access rights to the shared folder. | ![Added to Group](./Images/First.png) |
 | 2️⃣ | **Credential prompt appears** for authentication. User enters credentials for a domain account with access. | ![Authentication Prompt](./Images/Second.png) |
-
 | 3️⃣ |  **User accessing the shared folder** using the IP address and share name (`\\<FileServerIP>\<FolderName>`). | ![Accessing Folder](./Images/Third.png) |
 
 ---
